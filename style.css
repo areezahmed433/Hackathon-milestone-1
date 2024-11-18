@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(188, 236, 109);
+}
+
+.header{
+    background-color: #3b803eea;
+    padding: 10px;
+    text-align: center;
+}
+.navbtn1 .navbtn2 .navbtn3 .navbtn4{
+    padding: 10px 20px;
+    background-color: #f1f1f1;
+    color: #333;
+    border: none;
+    cursor: pointer;
+    /* transition: background-color 0.3s ease; */
+}
+
+.personalInfo, .education, .skills, .workExperience{
+   text-align: center;
+   
+}
